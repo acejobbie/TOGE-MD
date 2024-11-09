@@ -30,24 +30,24 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: kenzo3146" //ur yt chanel name
-global.socialm = "GitHub: toge012345" //ur github or insta name
-global.location = "Africa, Gabon, Libreville" //ur location
+global.ytname = "YT: acejobbie" //ur yt chanel name
+global.socialm = "GitHub: acejobbie" //ur github or insta name
+global.location = "Africa, Kenya, Nake" //ur location
 
 //new
-global.botname = '𝐓𝐎𝐆𝐄-𝐌𝐃' //ur bot name
-global.ownernumber = ['24102150169'] //ur owner number, dont add more than one
-global.ownername = '𓆩𝐓𝐎𝐆𝐄𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈' //ur owner name
+global.botname = '𒋨🏴‍☠️⃝𝘼𝘾𝙀☠️𝘽𝙊𝙏⃝𒋨🉑' //ur bot name
+global.ownernumber = ['254726856795'] //ur owner number, dont add more than one
+global.ownername = 'ན🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ ❬𝕯❭' //ur owner name
 global.websitex = "https://toge-md-web.onrender.com"
 global.wagc = "https://whatsapp.com/channel/0029VaiuD4s4IBhI0fzbv40Z"
-global.themeemoji = '🛠️'
-global.wm = "𝐓𝐎𝐆𝐄_𝐁𝐎𝐓 𝐈𝐧𝐜 ✨"
-global.botscript = 'https://github.com/toge012345/TOGE-MD' //script link
-global.packname = "Sticker By"
-global.author = "𓆩𝐓𝐎𝐆𝐄𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈"
-global.creator = "24102150169@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["24105114159"] // Premium User
+global.themeemoji = '🉑'
+global.wm = "ན🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ ❬𝕯❭ 𝐈𝐧𝐜"
+global.botscript = 'https://github.com/acejobbie/TOGE-MD' //script link
+global.packname = "𝙸 αɱ Ⓐϲе™⟦𝟭⟧"
+global.author = "ན🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ ❬𝕯❭"
+global.creator = "254726856795@s.whatsapp.net"
+global.xprefix = '#'
+global.premium = ["254750178300"] // Premium User
 
 //channel id
 global.xchannel = {
